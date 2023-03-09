@@ -1,0 +1,39 @@
+   0 mkdir -p /home/user/start
+   1 touch /home/user/start/1.txt
+   2 echo "Start" >> /home/user/start/1.txt
+   3 cat /home/user/start/1.txt
+   4 date >> /home/user/start/1.txt
+   5 cat /home/user/start/1.txt
+   6 mkdir /opt/task
+   7 cp /home/user/start/1.txt opt/task/start.txt
+   8 cat home/user/start/1.txt
+   9 cat /opt/task/start.txt
+  10 cp /home/user/start/1.txt /opt/task/start.txt
+  11 cat /opt/task/start.txt
+  12 cd /
+  13 ls -la
+  14 ls -la / | teil -4
+  15 ls -la / | tail -4
+  16 ls -la / | tail -4 >> /opt/ask/start.txt
+  17 ls -la / | tail -4 >> /opt/task/start.txt
+  18 history > history.txt
+   0 mkdir -p /home/user/start
+   1 touch /home/user/start/1.txt
+   2 echo "Start" >> /home/user/start/1.txt
+   3 cat /home/user/start/1.txt
+   4 date >> /home/user/start/1.txt
+   5 cat /home/user/start/1.txt
+   6 mkdir /opt/task
+   7 cp /home/user/start/1.txt opt/task/start.txt
+   8 cat home/user/start/1.txt
+   9 cat /opt/task/start.txt
+  10 cp /home/user/start/1.txt /opt/task/start.txt
+  11 cat /opt/task/start.txt
+  12 cd /
+  13 ls -la
+  14 ls -la / | teil -4
+  15 ls -la / | tail -4
+  16 ls -la / | tail -4 >> /opt/ask/start.txt
+  17 ls -la / | tail -4 >> /opt/task/start.txt
+  18 history > history.txt
+  19 history >> history.txt
